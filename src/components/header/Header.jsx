@@ -18,7 +18,7 @@ const Header = ({ title, bgColor, textColor }) => {
 Header.defaultProps = {
   title: "Feedback",
   bgColor: "rgba(0,0,0,0.4)",
-  textColor: "crimson",
+  textColor: "white",
 };
 
 Header.propTypes = {

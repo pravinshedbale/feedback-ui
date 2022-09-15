@@ -1,0 +1,15 @@
+.input-group {
+  margin-top: 10px;
+}
+.feedback-text {
+  height: 35px;
+  margin-right: 10px;
+  border-radius: 4px;
+  padding-left: 10px;
+}
+
+.input-group button {
+  border-radius: 4px;
+  width: 50px;
+  height: 35px;
+}

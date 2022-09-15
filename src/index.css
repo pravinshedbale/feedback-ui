@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: "Poppins", sans-serif;
   background-color: #202142;
@@ -24,15 +30,6 @@ header {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 30px;
-}
-
-.card {
-  background-color: #fff;
-  color: #333;
-  border-radius: 15px;
-  padding: 40px 50px;
-  margin: 20px 0;
-  position: relative;
 }
 
 .card.reverse {
